@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Nikhil Kumar
-title: Senior Software Engineer
+title: Backend Developer
 email: hello@nikhilkumar.dev
 website: www.nikhilkumar.dev
 
@@ -48,10 +48,16 @@ additional_links:
 # about_title: About Me
 # about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Nikhil . I am a skilled deevloper with strong background in the software industry.
-  I am proficient in Golang, adept at creating web services and scalable microservices.
+  Hi, my name is Nikhil Kumar, I'm a backend developer with over 5 years experience currently specialising in Golang development.
+  I am currently working for Maplelabs Solution Pvt Ltd as a Senior Software Engineer on their comercial observability platform, Snappyflow.
+  I have worked with a range of different languages and frameworks and I am always looking for opportunities to work with something new. 
+  The things that I currently have the most experience working with are:
+  <mark>Golang</mark>,
+  <mark>Kubernetes</mark>,
+  <mark>AWS</mark>,
+  <mark>Elasticsearch</mark>,
+  <mark>PostgreSQL</mark>.
 
-  I am most skilled in: <mark>Golang</mark> , <mark>Kubernetes</mark> , <mark>Backend Development</mark> and <mark>Microservices</mark>
 
 content:
   # - title: Projects # Title for the section
@@ -80,12 +86,12 @@ content:
         title: Maplelabs Solution Pvt Ltd
         link: maplelabs.com
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: Senior Sofrtware Engineer
+        caption: January 2020 - Present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Building Snappyflow - Observability Simplified
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            Working on 
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
