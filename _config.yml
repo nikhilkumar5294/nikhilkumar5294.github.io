@@ -9,7 +9,7 @@ version: 2
 name: Nikhil Kumar
 title: Backend Developer
 email: hello@nikhilkumar.dev
-website: www.nikhilkumar.dev
+# website: www.nikhilkumar.dev
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -88,10 +88,10 @@ content:
         # link_text: boringcompany.com
         sub_title: Senior Sofrtware Engineer
         caption: January 2020 - Present
-        quote: >
-          Building Snappyflow - Observability Simplified
+        # quote: >
+        #   Building Snappyflow - Observability Simplified
         description: | # this will include new lines to allow paragraphs
-            Working on 
+            Working on Snappyflow development
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -100,8 +100,8 @@ content:
         title: Bundelkhand Institute of Engineering and Technology
         caption: 2012 - 2016
         sub_title: B.TECH (Information Technology)
-        quote: >
-          Established in 1986, BIET is the fifth government engineering college in the U.P.
+        # quote: >
+        #   Established in 1986, BIET is the fifth government engineering college in the U.P.
         description: | # this will include new lines to allow paragraphs
           During my time at BIET Jhansi I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time at BIET  and learnt a lot about a healthy work life balance.
 
