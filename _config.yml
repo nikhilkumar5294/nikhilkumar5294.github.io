@@ -49,7 +49,7 @@ additional_links:
 # about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Nikhil Kumar, I'm a backend developer with over 5 years experience currently specialising in Golang development.
-  I am currently working for Maplelabs Solution Pvt Ltd as a Senior Software Engineer on their commercial observability platform, Snappyflow (https://www.snappyflow.io/).
+  I am currently working for Maplelabs Solution Pvt Ltd as a Senior Software Engineer on their commercial observability platform, [Snappyflow](https://www.snappyflow.io/).
   I have worked with a range of different languages and frameworks and I am always looking for opportunities to work with something new. 
   The things that I currently have the most experience working with are:
   <mark>Golang</mark>,
